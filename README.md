@@ -2,7 +2,6 @@
 
 JavaScript Learner
 
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
 
 ---
 
@@ -25,7 +24,5 @@ JavaScript Learner
 [![](https://img.shields.io/badge/-🧠%20JavaScript%20Practice-000)](https://github.com/MuathAlkahtiri/javascript-amazon-project)
 
 ---
-
-### GitHub Stats
 
 
