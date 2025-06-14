@@ -23,7 +23,7 @@ JavaScript Learner
 
 <!-- Add your own projects here -->
 [![](https://img.shields.io/badge/-🌐%20Quiz%20Game-000)](https://github.com/MuathAlkathiri/quiz-game)
-[![](https://img.shields.io/badge/-🧠%20JavaScript%20Practice-000)][(https://github.com/MuathAlkathiri/js-practice](https://github.com/MuathAlkahtiri/javascript-amazon-project))
+[![](https://img.shields.io/badge/-🧠%20JavaScript%20Practice-000)][https://github.com/MuathAlkahtiri/javascript-amazon-project])
 
 ---
 
